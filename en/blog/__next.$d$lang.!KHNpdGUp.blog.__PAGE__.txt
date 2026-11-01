@@ -1,0 +1,27 @@
+4:"$Sreact.fragment"
+5:"/_next/static/chunks/2de0nf22rx075.js"
+6:I[91791,["$5"],"default"]
+7:I[65242,["$5"],"default"]
+c:I[5881,["$5"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[5881,["$5"],"$10"]
+12:"MetadataBoundary"
+13:I[5881,["$5"],"$12"]
+14:I[1057,["$5"],"IconMark"]
+9:X
+9:C
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$4","c",{"children":[[["$","div",null,{"className":"night-grid border-b border-line","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col gap-4 px-4 pt-14 pb-12 sm:px-8 sm:pt-20 sm:pb-16","children":[["$","h1",null,{"className":"display text-[clamp(2.5rem,6vw,4rem)] leading-[1.02] tracking-[-0.03em] text-ink","children":"Blog"}],["$","p",null,{"className":"max-w-[56ch] text-lg text-ink-muted sm:text-xl","children":"News, study tips and stories from Kulan Institute."}],null]}]}],["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-8","children":["$","p",null,{"className":"rounded-[var(--radius-panel)] border border-line bg-paper p-8 text-ink-muted","children":"No posts yet. Check back soon."}]}]],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$a"}}]]
+3:[["children",{"s":"blog","h":64,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+2:[["children",{"s":"(site)","h":32,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"en","s":[]},"h":65648,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#fbf7f0","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#070b12","media":"(prefers-color-scheme: dark)"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Blog | Kulan Institute"}],["$","meta","1",{"name":"description","content":"News, study tips and stories from Kulan Institute."}],["$","meta","2",{"name":"application-name","content":"Kulan Institute"}],["$","meta","3",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","link","4",{"rel":"canonical","href":"https://kulaninstitute.org/en/blog/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://kulaninstitute.org/en/blog/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://kulaninstitute.org/en/blog/"}],["$","meta","7",{"name":"format-detection","content":"telephone=no"}],["$","meta","8",{"property":"og:title","content":"Blog"}],["$","meta","9",{"property":"og:description","content":"News, study tips and stories from Kulan Institute."}],["$","meta","10",{"property":"og:url","content":"https://kulaninstitute.org/en/blog/"}],["$","meta","11",{"property":"og:site_name","content":"Kulan Institute"}],["$","meta","12",{"property":"og:locale","content":"en_US"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary"}],["$","meta","15",{"name":"twitter:title","content":"Blog"}],["$","meta","16",{"name":"twitter:description","content":"News, study tips and stories from Kulan Institute."}],["$","link","17",{"rel":"icon","href":"/favicon.ico?favicon.1zvle_rqu9w8g.ico","sizes":"32x32","type":"image/x-icon"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.43bjktrlpa4pp.png","sizes":"96x96","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1yjdqpex-1wu4.png","sizes":"180x180","type":"image/png"}],["$","$L14","20",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$a"}},"a":"$@16","u":"$@17","b":"E8shjdt6nTlZBrsT8BH4M"}
+e:null
+17:true
+a:300
+a:C
+16:0
+8:"$undefined"
+15:"$undefined"
+f:"$undefined"

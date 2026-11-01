@@ -1,0 +1,35 @@
+4:"$Sreact.fragment"
+5:"/_next/static/chunks/2de0nf22rx075.js"
+6:I[91791,["$5"],"default"]
+7:I[65242,["$5"],"default"]
+e:"$Sreact.suspense"
+f:"/_next/static/chunks/1sdz3b-8dkbvs.js"
+10:"/_next/static/chunks/43ef47g45vyi7.js"
+11:"/_next/static/chunks/35x6dapmkhd1k.js"
+12:"/_next/static/chunks/3w1noyo-1hgrn.js"
+13:I[63771,["$f","$10","$11","$12"],"Reason"]
+14:I[9683,["$f","$10","$11","$12"],""]
+15:I[5881,["$5"],"OutletBoundary"]
+18:"ViewportBoundary"
+19:I[5881,["$5"],"$18"]
+1a:"MetadataBoundary"
+1b:I[5881,["$5"],"$1a"]
+1c:I[1057,["$5"],"IconMark"]
+9:X
+9:C
+a:X
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$4","c",{"children":[["$","div",null,{"className":"mx-auto flex max-w-2xl flex-col gap-4 px-4 py-20 sm:px-8","children":[["$","h1",null,{"className":"display text-4xl","children":"Your message wasn't sent"}],["$","p",null,{"role":"alert","className":"text-lg text-ink-muted","children":["$","$e",null,{"fallback":"That didn't send. Check the form and try again.","children":["$","$L13",null,{"lang":"en"}]}]}],["$","div",null,{"className":"flex flex-wrap gap-3","children":[["$","$L14",null,{"href":"/en/contact/","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-full font-semibold transition-[color,background-color,border-color,transform] duration-150 enabled:active:scale-[0.98] disabled:cursor-not-allowed disabled:opacity-60 min-h-11 px-5 py-2.5 text-sm bg-brand-600 text-on-brand hover:bg-brand-700","children":"Contact us"}],["$","$L14",null,{"href":"/en/","className":"inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-full font-semibold transition-[color,background-color,border-color,transform] duration-150 enabled:active:scale-[0.98] disabled:cursor-not-allowed disabled:opacity-60 min-h-11 px-5 py-2.5 text-sm border border-line-strong bg-surface text-ink hover:border-ink-faint hover:bg-paper","children":"Back to the home page"}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/35x6dapmkhd1k.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/3w1noyo-1hgrn.js","async":true}]],["$","$L15",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":"$@17","v":null,"s":"$a"}}]]
+b:[["children",{"s":"not-sent","h":96,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@c","v":"$9","s":"$a"},"c":"$Qd"}]]
+3:[["children",{"s":"message","h":64,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+2:[["children",{"s":"(site)","h":32,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"en","s":[]},"h":65648,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#fbf7f0","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#070b12","media":"(prefers-color-scheme: dark)"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Your message wasn't sent | Kulan Institute"}],["$","meta","1",{"name":"description","content":"Free cybersecurity courses built on the CompTIA exam objectives, with practice exams that explain every answer, live classes and certificates anyone can check."}],["$","meta","2",{"name":"application-name","content":"Kulan Institute"}],["$","meta","3",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","4",{"name":"robots","content":"noindex"}],["$","meta","5",{"name":"format-detection","content":"telephone=no"}],["$","link","6",{"rel":"icon","href":"/favicon.ico?favicon.1zvle_rqu9w8g.ico","sizes":"32x32","type":"image/x-icon"}],["$","link","7",{"rel":"icon","href":"/icon.png?icon.43bjktrlpa4pp.png","sizes":"96x96","type":"image/png"}],["$","link","8",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1yjdqpex-1wu4.png","sizes":"180x180","type":"image/png"}],["$","$L1c","9",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$a"}},"a":"$@1e","u":"$@1f","b":"E8shjdt6nTlZBrsT8BH4M"}
+16:null
+1f:true
+a:300
+a:C
+1e:0
+c:"$undefined"
+8:"$undefined"
+1d:"$undefined"
+17:"$undefined"

@@ -1,0 +1,32 @@
+4:"$Sreact.fragment"
+5:"/_next/static/chunks/2de0nf22rx075.js"
+6:I[91791,["$5"],"default"]
+7:I[65242,["$5"],"default"]
+c:"/_next/static/chunks/1sdz3b-8dkbvs.js"
+d:"/_next/static/chunks/43ef47g45vyi7.js"
+e:"/_next/static/chunks/3zs2xs56rbwkr.js"
+f:"/_next/static/chunks/3w1noyo-1hgrn.js"
+10:I[78831,["$c","$d","$e","$f"],"MessageForm"]
+11:I[5881,["$5"],"OutletBoundary"]
+12:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[5881,["$5"],"$15"]
+17:"MetadataBoundary"
+18:I[5881,["$5"],"$17"]
+19:I[1057,["$5"],"IconMark"]
+9:X
+9:C
+a:X
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$4","c",{"children":[[["$","div",null,{"className":"night-grid border-b border-line","children":["$","div",null,{"className":"mx-auto flex max-w-6xl flex-col gap-4 px-4 pt-14 pb-12 sm:px-8 sm:pt-20 sm:pb-16","children":[["$","h1",null,{"className":"display text-[clamp(2.5rem,6vw,4rem)] leading-[1.02] tracking-[-0.03em] text-ink","children":"Contact us"}],["$","p",null,{"className":"max-w-[56ch] text-lg text-ink-muted sm:text-xl","children":"Questions about a course, partnering with us, or something else? Send a message and we'll reply by email."}],"$undefined"]}]}],["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-12 sm:px-8","children":["$","div",null,{"className":"panel p-6 sm:p-8","children":["$","$L10",null,{"endpoint":"https://zbwodouiuoxwetddwmei.supabase.co/functions/v1/site-message","lang":"en","t":{"name":"Full name","email":"Email","phone":"Phone (optional)","program":"Which course or program?","notSure":"Not sure yet","message":"Anything you'd like us to know?","send":"Send","sending":"Sending…","privacy":"We use this only to reply to you. See our","privacyLink":"privacy notice","thanks":"Thank you. We've got your message and will reply by email.","sentTitle":"Message sent","notSentTitle":"Your message wasn't sent","back":"Back to the home page","error":"That didn't send. Check the form and try again.","nameError":"Enter your name.","emailError":"Enter a valid email address.","messageError":"Write a short message.","limit":"You've already sent us a few messages today. We'll reply soon.","busy":"We're getting a lot of messages right now. Please try again in an hour.","network":"Too many messages have come from your network. Please try again later.","tooLong":"That's too long. Shorten it a little.","honeypot":"Leave this empty"},"kind":"contact","source":"contact"}]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/3zs2xs56rbwkr.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/3w1noyo-1hgrn.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$a"}}]]
+3:[["children",{"s":"contact","h":64,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@8","v":"$9","s":"$a"},"c":"$Qb"}]]
+2:[["children",{"s":"(site)","h":32,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"en","s":[]},"h":65648,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$4","h",{"children":[null,["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#fbf7f0","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#070b12","media":"(prefers-color-scheme: dark)"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Contact us | Kulan Institute"}],["$","meta","1",{"name":"description","content":"Questions about a course, partnering with us, or something else? Send a message and we'll reply by email."}],["$","meta","2",{"name":"application-name","content":"Kulan Institute"}],["$","meta","3",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","link","4",{"rel":"canonical","href":"https://kulaninstitute.org/en/contact/"}],["$","link","5",{"rel":"alternate","hrefLang":"en","href":"https://kulaninstitute.org/en/contact/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://kulaninstitute.org/en/contact/"}],["$","meta","7",{"name":"format-detection","content":"telephone=no"}],["$","meta","8",{"property":"og:title","content":"Contact us"}],["$","meta","9",{"property":"og:description","content":"Questions about a course, partnering with us, or something else? Send a message and we'll reply by email."}],["$","meta","10",{"property":"og:url","content":"https://kulaninstitute.org/en/contact/"}],["$","meta","11",{"property":"og:site_name","content":"Kulan Institute"}],["$","meta","12",{"property":"og:locale","content":"en_US"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary"}],["$","meta","15",{"name":"twitter:title","content":"Contact us"}],["$","meta","16",{"name":"twitter:description","content":"Questions about a course, partnering with us, or something else? Send a message and we'll reply by email."}],["$","link","17",{"rel":"icon","href":"/favicon.ico?favicon.1zvle_rqu9w8g.ico","sizes":"32x32","type":"image/x-icon"}],["$","link","18",{"rel":"icon","href":"/icon.png?icon.43bjktrlpa4pp.png","sizes":"96x96","type":"image/png"}],["$","link","19",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.1yjdqpex-1wu4.png","sizes":"180x180","type":"image/png"}],["$","$L19","20",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1a","v":null,"s":"$a"}},"a":"$@1b","u":"$@1c","b":"E8shjdt6nTlZBrsT8BH4M"}
+13:null
+1c:true
+a:300
+a:C
+1b:0
+8:"$undefined"
+1a:"$undefined"
+14:"$undefined"
